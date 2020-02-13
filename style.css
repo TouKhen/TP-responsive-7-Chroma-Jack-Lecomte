@@ -166,7 +166,7 @@ main hr{
 footer{
     background-color: #252525;
     width: 100%;
-    height: 500px;
+    height: 550px;
 }
 
 #footer-parts{
@@ -277,4 +277,25 @@ footer{
     display: inline-block;
     width: 100%;
     margin-bottom: 10px;
+}
+
+#footer-last{
+    margin-top: 60px;
+    width: 100%;
+    text-align: center;
+}
+
+#footer-last p{
+    color: grey;
+    background-color: #1f1f1f;
+    padding: 30px 0;
+}
+
+#footer-last p a{
+    color: white;
+    text-decoration: none;
+}
+
+.clear{
+    clear: both;
 }
