@@ -151,6 +151,7 @@ main hr{
 
 #section-2-part-2 p:nth-child(1){
     margin-bottom: 3px;
+    font-size: 27px;
 }
 
 #section-2-part-2 p:nth-child(2){
